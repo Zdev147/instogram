@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330145989128",
+    "project_id": "instogram-insta-clone",
+    "storage_bucket": "instogram-insta-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330145989128:android:1c182198670297c72ac7bd",
+        "android_client_info": {
+          "package_name": "com.zdev.instogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330145989128-k64jfctsqd2n8k2udoc0pgtglvd0ttc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrbrVNjVDV8xSlQkhQPg9s_PPlLs414wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330145989128-k64jfctsqd2n8k2udoc0pgtglvd0ttc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
